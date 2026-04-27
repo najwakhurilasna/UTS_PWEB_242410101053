@@ -41,7 +41,7 @@ class PageController extends Controller
                 "rating" => "4.7"
             ],
             [
-                "nama" => "Pantai Pandawa",
+                "nama" => "Nusa Penida",
                 "lokasi" => "Bali",
                 "rating" => "4.8"
             ],
